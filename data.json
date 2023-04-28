@@ -1,0 +1,17 @@
+{
+  "blogs":[
+      {
+          "title": "First of all",
+          "body": "Im Vagitta sdijckcijsolckmlskxcjlxkcjksakcnkjsncjzo",
+          "author": "me", 
+          "id":1
+      },
+      {
+          "title": "Second of all",
+          "body": "Ur not Vagitta",
+          "author": "me", 
+          "id":2
+      }
+      
+  ]
+}
